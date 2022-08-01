@@ -1,0 +1,39 @@
+h1 {
+	color: white;
+}
+body {
+	background-color: #202020;
+	color: #8c8c8c;
+	text-align: center;
+
+
+
+}
+a{
+	text-decoration: none;
+	color: #E6E6E6;
+}
+h4 {
+	color: #E6E6E6;
+	font-family: arial, tahoma;
+	text-shadow: 5px 4px 4px #E6E6E6;
+
+	
+
+
+}
+h2 {
+	color: #E6E6E6;
+}
+h3{
+	color: #E6E6E6;
+}
+div {
+	text-align: center;
+
+}
+p{
+	
+	color: #E6E6E6;
+	text-decoration: none;
+}
